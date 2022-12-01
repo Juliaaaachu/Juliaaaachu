@@ -31,6 +31,4 @@ I like Python & Web Dev and I'm exploring Cloud Tech (learning..is a process...)
 
 
 
-### Connect with me:
-
 
