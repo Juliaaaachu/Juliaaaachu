@@ -25,9 +25,7 @@ I like Python & Web Dev and I'm exploring Cloud Tech (learning..is a process...)
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-
-
-
+<br>
 <br>
 <br>
 
@@ -39,7 +37,13 @@ I like Python & Web Dev and I'm exploring Cloud Tech (learning..is a process...)
 <a href="https://github.com/Juliaaaachu/Doodle-Bounce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaaaachu&repo=Doodle-Bounce&theme=onedark" />
 </a>
+<br>
+<!-- <a href="https://github.com/Juliaaaachu/raiso-projects-committee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaaaachu&repo=raiso-projects-committee&theme=onedark" />
+</a> -->
 
+
+![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliaaaachu&show_icons=true&theme=radical)
 
 
 
