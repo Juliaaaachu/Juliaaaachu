@@ -31,8 +31,14 @@ I like Python & Web Dev and I'm exploring Cloud Tech (learning..is a process...)
 <br>
 <br>
 
-### 🦄 Projects I can showcase:
+### 🦄 Recent Projects:
 
+<a href="https://github.com/Juliaaaachu/market"></br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaaaachu&repo=market&theme=onedark" />
+</a>
+<a href="https://github.com/Juliaaaachu/Doodle-Bounce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaaaachu&repo=Doodle-Bounce&theme=onedark" />
+</a>
 
 
 
